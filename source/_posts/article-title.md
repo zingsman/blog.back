@@ -9,5 +9,11 @@ hello word
 ls 
 $ hexo new "My New Post"
 ```
-
+``` bash
+ls 
+$ hexo new "My New Post"
+`````` bash
+ls 
+$ hexo new "My New Post"
+```
 `$ hexo new "My New Post"`
