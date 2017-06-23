@@ -36,3 +36,10 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+### Tables
+name | age
+---- | --
+xiao | 13
+ming | 15
+
